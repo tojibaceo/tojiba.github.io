@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NFT on Tojiba CPU Corp</title>
+    <link>https://tojiba.github.io/nft/</link>
+    <description>Recent content in NFT on Tojiba CPU Corp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 17 Jan 2023 13:09:58 -0500</lastBuildDate><atom:link href="https://tojiba.github.io/nft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toji 100</title>
+      <link>https://tojiba.github.io/nft/toji100/</link>
+      <pubDate>Tue, 17 Jan 2023 13:09:58 -0500</pubDate>
+      
+      <guid>https://tojiba.github.io/nft/toji100/</guid>
+      <description>A collection of 2,222 Toji 100s — the Tojiba CPU Corporation flagship computer. Your link to the World Wide Web!</description>
+    </item>
+    
+    <item>
+      <title>Disc Buddies</title>
+      <link>https://tojiba.github.io/nft/disc-buddies/</link>
+      <pubDate>Tue, 17 Jan 2023 13:09:58 -0500</pubDate>
+      
+      <guid>https://tojiba.github.io/nft/disc-buddies/</guid>
+      <description>Software for Toji, Friend for you.</description>
+    </item>
+    
+  </channel>
+</rss>
